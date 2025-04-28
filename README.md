@@ -12,7 +12,7 @@ We implemented:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Programming Language:** Python 3.x
 - **Libraries:**
   - `pandas`, `numpy`
@@ -22,13 +22,13 @@ We implemented:
 
 ---
 
-## 📥 Dataset
+## Dataset
 - **Source:** [MovieLens 100K Dataset](https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset)
 - **Description:** 100,000 ratings (1–5 stars) from 943 users on 1,682 movies.
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. **Clone the repository**
    ```bash
